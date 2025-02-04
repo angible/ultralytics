@@ -1,0 +1,10 @@
+path: data/training/nrf
+train: None
+val: 0112.txt
+names:
+  0: hand_object
+  1: gun
+  2: personal_belongings
+  3: basket
+  4: bundled_product
+  5: high_value_product
